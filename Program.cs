@@ -6,7 +6,7 @@ namespace etecab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Etec Adolpho Berezin");
         }
     }
 }
