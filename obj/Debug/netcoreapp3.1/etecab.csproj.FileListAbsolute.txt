@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\bin\Debug\netcoreapp3.1\etecab.exe
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\bin\Debug\netcoreapp3.1\etecab.deps.json
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\bin\Debug\netcoreapp3.1\etecab.runtimeconfig.json
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\bin\Debug\netcoreapp3.1\etecab.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\bin\Debug\netcoreapp3.1\etecab.dll
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\bin\Debug\netcoreapp3.1\etecab.pdb
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\obj\Debug\netcoreapp3.1\etecab.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\obj\Debug\netcoreapp3.1\etecab.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\obj\Debug\netcoreapp3.1\etecab.AssemblyInfo.cs
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\obj\Debug\netcoreapp3.1\etecab.dll
+C:\Users\Maria Luiza\Desktop\Luiza\etecab\obj\Debug\netcoreapp3.1\etecab.pdb
